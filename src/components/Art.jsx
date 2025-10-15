@@ -42,7 +42,7 @@ const Art = () => {
                     </ul>
 
                     <div className="cocktail-img">
-                        <img src="/images/fitibar.png" alt="cocktail" className="abs-center masked-img size-full object-contain" />
+                        <img src="/images/fit.png" alt="cocktail" className="abs-center masked-img size-full object-contain" />
                     </div>
 
                     <ul className="space-y-4 will-fade">
