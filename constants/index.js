@@ -104,8 +104,8 @@ const storeInfo = {
  heading: "Where to Find Us",
  address: "456, Avenida Rua de Angola. #404, Maputo, MZ 90210",
  contact: {
-	phone: "(555) 987-6543",
-	email: "hello@jsmcocktail.com",
+	phone: "(+258) 858-765-431",
+	email: "fitimojito@cocktailsmoz.com",
  },
 };
 
