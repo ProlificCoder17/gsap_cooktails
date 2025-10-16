@@ -49,40 +49,40 @@ const mockTailLists = [
 	name: "Tropical Bloom",
 	country: "US",
 	detail: "Battle",
-	price: "630mt",
+	price: "830mt",
  },
  {
 	name: "Passionfruit Mint",
 	country: "US",
 	detail: "Battle",
-	price: "3,087mt",
+	price: "4,087mt",
  },
  {
 	name: "Citrus Glow",
 	country: "CA",
 	detail: "750 ml",
-	price: "1,260mt",
+	price: "2,260mt",
  },
  {
 	name: "Lavender Fizz",
 	country: "IE",
 	detail: "600 ml",
-	price: "1,827mt",
+	price: "2,827mt",
  },
 ];
 
 const profileLists = [
  {
-	imgPath: "public/images/profile1.png",
+	imgPath: "/images/profile1.png",
  },
  {
-	imgPath: "public/images/profile2.png",
+	imgPath: "/images/profile2.png",
  },
  {
-	imgPath: "public/images/profile3.png",
+	imgPath: "/images/profile3.png",
  },
  {
-	imgPath: "public/images/profile4.png",
+	imgPath: "/images/profile4.png",
  },
 ];
 
@@ -104,7 +104,7 @@ const storeInfo = {
  heading: "Where to Find Us",
  address: "456, Avenida Rua de Angola. #404, Maputo, MZ 90210",
  contact: {
-	phone: "(+258) 858-765-431",
+	phone: "(+258) 8587-65431",
 	email: "fitimojito@cocktailsmoz.com",
  },
 };
