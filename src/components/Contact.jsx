@@ -41,12 +41,12 @@ const Contact = () => {
 
                 <div>
                     <h3>Visit Our Bar</h3>
-                    <p>456, Avenida Rua de Angola. #404, Maputo, MZ 90210</p>
+                    <p>Avenida Rua de Angola. #404, Maputo, Mozambique 2952</p>
                 </div>
 
                 <div>
                     <h3>Contact Us</h3>
-                    <p>(+258) 8587-65431</p>
+                    <p>(+258) 858765431</p>
                     <p>fitimojito@cocktailsmoz.com</p>
                 </div>
 
